@@ -1,5 +1,5 @@
 # web-scraper
-Web Scraper for Blog Author and Title Extraction
+# Web Scraper for Blog Author and Title Extraction
 This project is a lightweight Python web scraper designed to automatically extract author names and blog post titles from a target website. Built to demonstrate practical web scraping skills, the tool efficiently navigates HTML content, parses relevant data, and outputs structured results suitable for further analysis or automation tasks.
 
 Features:
